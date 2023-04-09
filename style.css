@@ -253,7 +253,7 @@ border-radius: 80%;
   grid-template-columns: repeat(3, 2fr);
   color: #dfd8dc;
   margin-top: 3rem;
-  margin-right: 2rem;
+  margin-right: 0rem;
 }
 .section-h {
   margin-left: 44rem;
