@@ -572,10 +572,10 @@ flex-direction: column;
     font-size: 2.5rem;
   }
   .contact>h1{
-    margin-left: 10%;
+    margin-left: 40%;
   }
   .left-details{
-    margin-left: 18%;
+    margin-left: 40%;
   }
     
 .d{
@@ -678,6 +678,12 @@ margin-top: 0rem;
 }
 .left-details h1{
   font-size: 2rem;
+}
+.contact>h1{
+  margin-left: 15%;
+}
+.left-details{
+  margin-left: 20%;
 }
 footer{
   font-size: x-large;
