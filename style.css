@@ -374,6 +374,7 @@ footer {
   .projects {
     display: grid;
     grid-template-columns: repeat(2, 2fr);
+    margin-right:0rem;
   }
 .block1{
   width: 370px;
