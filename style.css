@@ -161,10 +161,6 @@ border-radius: 80%;
   margin-top: 1rem;
   margin-left: 5rem;
 }
-.tilt-in-top-1 {
-	-webkit-animation: tilt-in-top-1 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	        animation: tilt-in-top-1 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-}
 /* second section end */
 
 /* skills section start */
@@ -253,7 +249,7 @@ border-radius: 80%;
   grid-template-columns: repeat(3, 2fr);
   color: #dfd8dc;
   margin-top: 3rem;
-  margin-right: 0rem;
+  margin-right: 2rem;
 }
 .section-h {
   margin-left: 44rem;
@@ -266,7 +262,7 @@ border-radius: 80%;
   height: 350px;
   width: 350px;
 margin-top: 4rem;
-  margin-left: 11rem;
+  margin-left: 7rem;
   background-size: cover;
   box-shadow: 0 0 4px 2px rgb(119, 240, 119);
 }
@@ -279,7 +275,7 @@ margin-top: 4rem;
   background-color: #292424;
   height: 350px;
   width: 350px;
-  margin-left: 11rem;
+  margin-left: 7rem;
   background-size: cover;
   box-shadow: 0 0 4px 2px rgb(216, 119, 211);
 }
@@ -374,7 +370,7 @@ footer {
   .projects {
     display: grid;
     grid-template-columns: repeat(2, 2fr);
-    margin-right:0rem;
+    margin-right: 0;
   }
 .block1{
   width: 370px;
